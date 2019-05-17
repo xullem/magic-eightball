@@ -1,7 +1,7 @@
 $(document).ready(function(){
 var eightball = {};
 $("#answer").hide();
-eightball.answerList = ["you betcha", "perhaps", "are you sure you want to know?", "of course", "absolutely", "yes!", "nope", "weep womp", "ask me after I've had my coffee", "I think you already know the answer"];
+eightball.answerList = ["you betcha", "perhaps", "are you sure you want to know?", "yuppers", "absolutely", "yes!", "nope", "weep womp", "ask me after I've had my coffee", "I think you already know the answer", "sorry, bro"];
 
 
 eightball.announce = function(){
